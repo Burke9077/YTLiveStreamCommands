@@ -10,15 +10,15 @@ How to Interact with the Stream
 
 You can interact with the live stream and control the camera views using specific commands in the YouTube chat. This allows you to explore different areas of Burke Farm and focus on the aspects of nature you find most interesting.
 
-### Camera Switching Commands (`!changeto`)
+### Camera Switching Commands (`!switchto`)
 
-Use `!changeto` to switch between different cameras. We currently have three cameras set up: "deercrossing", "birdfeeder", and "bridge". To switch to a specific camera, use the command followed by the camera name.
+Use `!switchto` to switch between different cameras. We currently have three cameras set up: "deercrossing", "birdfeeder", and "bridge". To switch to a specific camera, use the command followed by the camera name.
 
 **Examples:**
 
-*   `!changeto deercrossing` - Switches the view to the "Deer Crossing" camera.
-*   `!changeto birdfeeder` - Switches the view to the "Bird Feeder" camera.
-*   `!changeto bridge` - Switches the view to the "Bridge" camera.
+*   `!switchto deercrossing` - Switches the view to the "Deer Crossing" camera.
+*   `!switchto birdfeeder` - Switches the view to the "Bird Feeder" camera.
+*   `!switchto bridge` - Switches the view to the "Bridge" camera.
 
 ### PTZ Control Commands (`!ptz`)
 
